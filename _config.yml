@@ -25,7 +25,7 @@ linkedin_username: MahmoudD
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: dinky
 plugins:
   - jekyll-feed
 
