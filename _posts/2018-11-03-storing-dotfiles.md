@@ -43,6 +43,10 @@ You may now bask in the glory of my [dotfiles repository][dotfiles] :p
 To conclude, this same set up might not work for you, I know some people that prefer someting like [this][crap] and it works for them ¯\\\_(ツ)_/¯
 
 
+## To Do
+There's still a bit more I'd like to do with this, such as, limit the disconnect between the dotfiles on my personal and work computer and find better ways to account for the different Operating Systems and desktop environments that I use
+
+
 [yadm]: https://thelocehiliosan.github.io/yadm/
 [ansible]: http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
 [stow]: http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
