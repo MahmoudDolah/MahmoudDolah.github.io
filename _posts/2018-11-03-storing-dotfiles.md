@@ -40,7 +40,7 @@ So, does this cover all the bases?
 
 You may now bask in the glory of my [dotfiles repository][dotfiles] :p
 
-To conclude, this same set up might not work for you, I know some people that prefer someting like [this][crap] and it works for them ¯\\\_(ツ)_/¯
+To conclude, this same set up might not work for you, I know some people that prefer something like [this][crap] and it works for them ¯\\\_(ツ)_/¯
 
 
 ## To Do
