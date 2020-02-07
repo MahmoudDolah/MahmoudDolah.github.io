@@ -6,7 +6,7 @@ date:   2020-02-07 06:39:32 -0400
 categories: DevOps Ansible Automation Configuration-Management
 ---
 
-While Ansible is no longer on the cutting edge, it still maintains a significant degree of [popularity][stack-overflow]. Personally, it is one of my favorite tools and was one of the first SRE-related skills that I acquired.     
+While Ansible is no longer on the cutting edge, it still maintains a significant degree of [popularity][stack-overflow]. Personally, it is one of my favorite tools and was one of the first DevOps tools that I learned to use.     
 
 I worked on a myriad of different projects, from creating playbooks from scratch to automate tasks, to building on top of and debugging playbooks required for multi-tiered application deployments
 
@@ -125,6 +125,9 @@ To cover these bases, you could start the playbook with something as simple as d
 . . . 
 ```
 
+## Conclusion
+To conclude, these are some of the key takeaways that I've learned when writing Ansible over the years    
+Writing concise, clean, and repeatable Ansible playbooks is a solid skill to develop
 
 [stack-overflow]: https://insights.stackoverflow.com/survey/2019#technology-_-other-frameworks-libraries-and-tools
 [ansible-command]: https://docs.ansible.com/ansible/latest/modules/command_module.html#command-execute-commands-on-targets
