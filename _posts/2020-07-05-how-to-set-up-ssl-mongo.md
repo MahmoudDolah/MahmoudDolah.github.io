@@ -16,3 +16,13 @@ openssl x509 -req -in server.csr -CA ca.pem -CAkey ca.key -CAcreateserial -out s
 cat server.key server.crt > server.pem
 openssl verify -verbose -CAfile client.pem mongodb.pem
 ```
+
+```
+$ cat extensions.ext
+extendedKeyUsage = serverAuth,clientAuth,TLS Web Server Authentication,TLS Web Client Authentication
+basicConstraints = CA:FALSE
+keyUsage = nonRepudiation, digitalSignature, keyEncipherment
+subjectAltName = @alt_names
+[alt_names]
+DNS.1=devdbunified.aws.businessinsider.com
+```
