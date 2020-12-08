@@ -14,7 +14,7 @@ cat ca.key ca.crt > ca.pem
 openssl x509 -req -in server.csr -CA ca.pem -CAkey ca.key -CAcreateserial -out server.crt -days 799 -sha256 -extfile extensions.ext
 openssl x509 -req -in server.csr -CA ca.pem -CAkey ca.key -CAcreateserial -out server.crt -days 799 -sha256 -extfile extensions.ext
 cat server.key server.crt > server.pem
-openssl verify -verbose -CAfile client.pem mongodb.pem
+openssl verify -verbose -CAfile ca.pem server.pem
 ```
 
 ```
