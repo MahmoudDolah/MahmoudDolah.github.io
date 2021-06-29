@@ -54,7 +54,10 @@ Percentage of the requests served within a certain time (ms)
 
 I was able to properly `curl` the service, but was unable to hit it with postman or `ab`.
 ```
-$ curl 'https://<REDACTED>/graphql' -H 'Accept-Encoding: gzip, deflate, br' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Connection: keep-alive' -H 'DNT: 1' -H 'Origin: REDACTED' --data-binary '{"query":"{getImage(data: {id: \"REDACTED\"}){\n  image{createdAt, source, link, id, width, md5}\n}} "}' --compressed
+$ curl 'https://<REDACTED>/graphql' -H 'Accept-Encoding: gzip, deflate, br' \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-H 'Connection: keep-alive' -H 'DNT: 1' -H 'Origin: REDACTED' \
+--data-binary '{"query":"{getImage(data: {id: \"REDACTED\"}){\n  image{createdAt, source, link, id, width, md5}\n}} "}' --compressed
 {"data":{"getImage":{"image":{"createdAt":"1304972624","source":null,"link":null,"id":"REDACTED","width":900,"md5":"REDACTED"}}}}
 ```
 
@@ -63,7 +66,10 @@ Taking a look again, I realized that I was incorrectly incorrectly passing the g
 ```
 $ cat post.txt
 {"query":"GRAPHQL QUERY"}
-$ ab -n 2000 -c 100 -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept: application/json' -H 'Origin: https://REDACTED' -T 'application/json' -p post.txt 'https://REDACTED/graphql'
+$ ab -n 2000 -c 100 -H 'Accept-Encoding: gzip, deflate, br' -H \
+ 'Accept-Encoding: gzip, deflate, br' \
+ -H 'Accept: application/json' -H 'Origin: https://REDACTED' -T 'application/json' \
+ -p post.txt 'https://REDACTED/graphql'
 ```
 
 [magento-loadtest]: https://www.dolah.dev/devops/magento/2018/10/02/magento-load-test.html
