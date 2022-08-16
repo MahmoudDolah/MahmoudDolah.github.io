@@ -36,6 +36,8 @@ Now that we have the command line out of the way, let's focus on the desktop its
 
 Next, let's mimic the way Linux allows us to move windows with powerful keyboard shortcuts (specifically, I'm referring to the `Super` + direction). The only free one that I've come across is an application called [Spectacle][spectacle]. 
 
+If you're more a fan of linux window managers like xmonad or i3, I recommend [Amethyst][amethyst]
+
 Finally, we want a powerful tool to search across our machine. For this purpose, I use [Alfred][alfred].
 You can directly download Alfred via the above link, or you can install it via homebrew
 ```
@@ -55,6 +57,7 @@ God forbid I'm given a laptop with . . . Windows *shudder* :p
 [witch]: https://manytricks.com/witch/
 [stack-overflow]: https://apple.stackexchange.com/questions/293790/make-macos-look-like-a-linux-desktop
 [spectacle]: https://www.spectacleapp.com/
+[amethyst]: https://github.com/ianyh/Amethyst
 [alfred]: https://www.alfredapp.com/
 [nix]: https://nixos.org/nix/
 [macports]: https://www.macports.org/
