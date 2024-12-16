@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Musings Around Chat GPT"
+title:  "Musings Around ChatGPT"
 date:   2022-12-05 06:39:32 -0400
 
 categories: AI ChatGPT Automation
