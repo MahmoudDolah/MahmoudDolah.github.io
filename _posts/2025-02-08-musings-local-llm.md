@@ -27,8 +27,8 @@ To the surprise of probably no one, my HP Thin Client performed pretty abysmally
 
 
 # References:
-- https://github.com/ollama/ollama/blob/main/README.md#model-library
-- https://python.langchain.com/docs/how_to/local_llms/
-- https://debuggercafe.com/adding-models-to-ollama/
-- https://weisser-zwerg.dev/posts/local-llm-getting-started/
-- https://github.com/jasonacox/TinyLLM
+- [Ollama model library](https://github.com/ollama/ollama/blob/main/README.md#model-library)
+- [Langchain post on local LLMs](https://python.langchain.com/docs/how_to/local_llms/)
+- [Adding models to ollama](https://debuggercafe.com/adding-models-to-ollama/)
+- [Getting Started with Local LLMs](https://weisser-zwerg.dev/posts/local-llm-getting-started/)
+- [TinyLLM github page](https://github.com/jasonacox/TinyLLM)
