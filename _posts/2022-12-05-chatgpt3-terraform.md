@@ -3,7 +3,7 @@ layout: post
 title:  "Musings Around ChatGPT"
 date:   2022-12-05 06:39:32 -0400
 
-categories: AI ChatGPT Automation
+categories: Musings AI ChatGPT Automation
 ---
 
 A lot of people in the internet are playing around with Chat GPT at the moment (myself included!). One of the more fun examples, is to ask it to create a python script to automate some task
