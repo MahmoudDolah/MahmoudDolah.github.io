@@ -6,7 +6,10 @@ permalink: /about/
 
 I'm Mahmoud Dolah, and I'm a professional Sr SRE
 
-You can find me on [Github][my-github] and checkout some of the [cool stuff][my-projects] I've worked on, like this research paper about finding [firmware entry points in memory][project-firmware] and [WeatherBet][weatherbet].
+You can find me on [Github][my-github] and checkout some of the [cool stuff][my-projects] I've worked on, like
+- [a lightweight Linux alternative to HWINFO64](https://github.com/MahmoudDolah/linux_hwinfo64)
+- this research paper about finding [firmware entry points in memory][project-firmware]
+- and [WeatherBet][weatherbet]
 
 The best way to get in touch with me is through [email][my-email].
 
