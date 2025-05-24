@@ -16,6 +16,8 @@ There's a tool called [HWINFO64](https://www.hwinfo.com/download/), but it's onl
 The repository can be found [here](https://github.com/MahmoudDolah/linux_hwinfo64)     
 I even published it on [PyPI](https://pypi.org/project/linux-hwinfo64/)
 
+![linux_hwinfo64 running in standard mode in the terminal](https://github.com/MahmoudDolah/linux_hwinfo64/raw/main/assets/linux_hw_monitor_screenshot.png)
+
 
 [1] List of GPU monitoring tools for AMD:
 - [radeontop](https://github.com/clbr/radeontop)
