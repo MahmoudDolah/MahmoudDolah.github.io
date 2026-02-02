@@ -4,12 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Mahmoud Dolah, and I'm a professional Sr SRE
+I'm Mahmoud Dolah, and I'm a professional Sr Platform Engineer
 
 You can find me on [Github][my-github] and checkout some of the [cool stuff][my-projects] I've worked on, like
 - [a lightweight Linux alternative to HWINFO64](https://github.com/MahmoudDolah/linux_hwinfo64)
-- this research paper about finding [firmware entry points in memory][project-firmware]
-- and [WeatherBet][weatherbet]
+- [a tiny chaos engineering framework](https://github.com/MahmoudDolah/tiny-chaos-framework)
+- [a simple LLM Security Platform](https://github.com/MahmoudDolah/llm-security-platform)
 
 The best way to get in touch with me is through [email][my-email].
 
@@ -18,5 +18,3 @@ The best way to get in touch with me is through [email][my-email].
 [my-twitter]: https://twitter.com/themooouud
 [my-projects]: https://github.com/MahmoudDolah?tab=repositories
 [my-email]: mailto:m@dolah.dev
-[project-firmware]: https://github.com/MahmoudDolah/Firmware-Entry-Points-In-Memory
-[weatherbet]: https://github.com/Abeyy/WeatherBet
