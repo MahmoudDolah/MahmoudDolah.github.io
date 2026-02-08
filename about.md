@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Mahmoud Dolah, and I'm a professional Sr Platform Engineer
+Hello, I'm Mahmoud, and I work as a Sr Platform Engineer
 
 You can find me on [Github][my-github] and checkout some of the [cool stuff][my-projects] I've worked on, like
 - [a lightweight Linux alternative to HWINFO64](https://github.com/MahmoudDolah/linux_hwinfo64)
