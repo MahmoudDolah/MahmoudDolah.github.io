@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "I built a simple Linux hardware monitoring tool"
 date:   2025-05-18 06:39:32 -0400
 

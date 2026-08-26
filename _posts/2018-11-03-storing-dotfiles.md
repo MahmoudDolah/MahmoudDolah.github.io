@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How I Store Dotfiles"
 date:   2018-11-03 06:39:32 -0400
 

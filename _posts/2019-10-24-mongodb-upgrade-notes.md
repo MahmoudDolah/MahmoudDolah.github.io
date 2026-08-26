@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "MongoDB Upgrade Notes"
 date:   2019-11-05 06:39:32 -0400
 

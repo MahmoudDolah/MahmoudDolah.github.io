@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "I Only Buy Used Books"
 date:   2024-12-15 06:39:32 -0400
 

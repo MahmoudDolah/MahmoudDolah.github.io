@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How to Perform a Load Test for Magento using Gatling 2.3.1"
 date:   2018-10-02 06:39:32 -0400
 

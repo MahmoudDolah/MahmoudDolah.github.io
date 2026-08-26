@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Musings on Running LLMs Locally"
 date:   2025-02-08 06:39:32 -0400
 

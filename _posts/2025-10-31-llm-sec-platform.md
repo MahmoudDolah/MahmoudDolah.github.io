@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Simple LLM Security Platform Tool"
 date:   2025-10-31 06:39:32 -0400
 

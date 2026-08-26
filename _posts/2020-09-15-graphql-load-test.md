@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How to Load Test a GraphQL Application using Apache Bench"
 date:   2020-09-15 06:39:32 -0400
 

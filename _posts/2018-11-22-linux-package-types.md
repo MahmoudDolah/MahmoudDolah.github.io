@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Comparing Different Linux Package Types"
 date:   2018-11-22 06:39:32 -0400
 

@@ -25,9 +25,39 @@ github_username:  MahmoudDolah
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "catppuccin_mocha"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+
+author:
+  name: "Mahmoud Dolah"
+  bio: "Sr Platform Engineer. The first step to not forgetting something is to write it down."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:m@dolah.dev"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.dolah.dev"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MahmoudDolah"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Writing Clean and Repeatable Ansible Playbooks"
 date:   2020-02-07 06:39:32 -0400
 

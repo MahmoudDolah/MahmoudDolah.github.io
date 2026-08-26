@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Not Every Agent Has Tokens to Burn"
 date:   2026-07-15 06:39:32 -0400
 

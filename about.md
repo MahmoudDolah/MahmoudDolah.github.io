@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: About Me
 permalink: /about/
+author_profile: true
 ---
 
 Hello, I'm Mahmoud, and I work as a Sr Platform Engineer

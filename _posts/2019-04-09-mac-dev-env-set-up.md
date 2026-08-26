@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A Linux Users Guide For Configuring Their Macbook"
 date:   2019-04-09 06:39:32 -0400
 
