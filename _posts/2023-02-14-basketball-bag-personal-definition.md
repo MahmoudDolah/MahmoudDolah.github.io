@@ -3,7 +3,7 @@ layout: single
 title:  "Basketball: My Personal Definition having a 'Bag'"
 date:   2023-02-14 06:39:32 -0400
 
-categories: Basketball Hobbies Personal
+categories: unlisted Basketball Hobbies Personal
 ---
 
 In my opinion, a “Bag” means that a player has versatility with their scoring and has a deepened skill set that sets up multiple ways of scoring.
